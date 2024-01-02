@@ -11,21 +11,38 @@
   <body>
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
+      <h1 class="display-4">This is the Assignment 2!</h1>
+      <p>Show these steps in the video recording:</p>
+      <p>
+        <span class="badge badge-info">Step 1</span> Please fork this github repository to your own github (with your RMIT's email account)!
+      </p>
+      <p>
+        <span class="badge badge-info">Step 2</span> Setup the pipeline as required in the assignment specification!
+      </p>
+      <p>
+        <span class="badge badge-info">Step 3</span> After done with the pipeline setup, please change these information below with your personal information on your local laptop!
+      </p>
+      <p>
+        <span class="badge badge-info">Step 4</span> Git commit and push to Github, and show that Jenkins automatically pull, build and deploy on the Tomcat container!
+      </p>
+      <p>
+        <span class="badge badge-info">Step 5</span> Shows the proof of changes of the website on the browser!
+      </p>
 
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Your name: Khang</span>
+      <span class="badge badge-primary">Your name</span>
       <br>
-      <span class="badge badge-secondary">Your student ID (sID): s3929994</span>
+      <span class="badge badge-secondary">Your student ID (sID)</span>
       <br>
-      <span class="badge badge-success">Your Major (and Minor if possible): General IT</span>
+      <span class="badge badge-success">Your Major (and Minor if possible)</span>
       <br>
-      <span class="badge badge-danger">Your Hobby: Relaxing</span>
+      <span class="badge badge-danger">Your Hobby</span>
       <br>
-      <span class="badge badge-warning">Your Favouritate Programming Language: Anything</span>
+      <span class="badge badge-warning">Your Favouritate Programming Language</span>
       <!-- You only need to change these information, ends here! -->
-      
+
 
     </div>
     <!-- The content of the website ends here! -->
